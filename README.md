@@ -1,6 +1,6 @@
-CODE DOCUMENTATION FOR ULD OPTIMIZATION PROBLEM.
+## CODE DOCUMENTATION FOR ULD OPTIMIZATION PROBLEM.
 
-IDE: Anaconda Navigator — Spyder
+** IDE: Anaconda Navigator — Spyder
 
 Installed the Solver: Gurobi Optimizer 12.0.1, License activated through Anaconda Prompt
 Python version: 3.x (via Anaconda distribution)
